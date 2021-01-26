@@ -12,3 +12,7 @@
     * CORS
     * dotenv
     * devops, CI/CD, deploy => dev, test, prod
+## 3. How I design the project ?
+    * Router - Controller - Service - Models
+    * Content-path: /api
+    * Document
