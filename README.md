@@ -1,4 +1,4 @@
-# Create base of project
+# Create base of the project
 ## 1. What's the project about?
     * CRUD
     * API
